@@ -16,9 +16,6 @@ Syntax highlighted code block
 - Helpful information
 - Good start to Purdue CS
 
-1. Numbered
-2. List
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
